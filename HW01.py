@@ -1,1 +1,3 @@
-# Contents of the original test.py file will need to be retained here.
+
+
+print("晚安，本人是黃靖愈 學號:01357060，來自資工2A,興趣是說負面的話題")
